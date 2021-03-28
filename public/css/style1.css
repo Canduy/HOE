@@ -1,0 +1,12 @@
+.contact_footer{
+	display: flex;
+
+}
+
+footer{
+	padding: 80px 0 0;
+	background-color: #ece9ff;
+}
+.content_footer{
+	margin: 15px 0;
+}
